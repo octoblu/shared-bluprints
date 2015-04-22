@@ -38,4 +38,4 @@
 
 ####[Gifs -> Shell](https://app.octoblu.com/design/import/9883e770-e934-11e4-84e5-75b844d80250)
 
-  -Searches Giphy.com for gifs and opens them using the shell node.
+  - Searches Giphy.com for gifs and opens them using the shell node.
