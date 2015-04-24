@@ -5,7 +5,7 @@
 
 ------------------------
 
-####[Bean + Button -> Blink](https://github.com/octoblu/shared-flows)
+####[Bean + Button -> Blink](https://app.octoblu.com/design/import/68ebf690-a5ac-11e4-b6fc-93d74e29eab8)
 
 - Changes the color of a blink depending on button press on Lightblue Bean
 - Made in conjunction with [this tutorial](http://www.hackster.io/3043/lightblue-bean-octoblu)
