@@ -1,4 +1,4 @@
-#shared-flows
+#shared-bluprints
 ---
 ###A centralized location for flow templates.
 
